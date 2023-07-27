@@ -14,7 +14,7 @@ I'm a passionate programmer and AI expert with a strong drive for learning and i
 
 ## 📫 How to reach me: 
 - Email: [your-email@example.com](mailto:openangeltt@gmail.com)
-- LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username)
+- LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/Isaac-Browne)
 
 ## ⚡ Fun fact: 
 - Apart from being a techie, I love to read and travel. 
