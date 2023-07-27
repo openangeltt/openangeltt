@@ -17,7 +17,7 @@ I'm a passionate programmer and AI expert with a strong drive for learning and i
 - LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/Isaac-Browne)
 
 ## ⚡ Fun fact: 
-- Apart from being a techie, I love to read and travel. 
+- Apart from being a techie, I am a musician and play 6 instruments. 
 
 
 <!---
