@@ -13,9 +13,9 @@ I'm a passionate programmer and AI expert with a strong drive for learning and i
 - Quantum computing
 
 ## 📫 How to reach me: 
-- Email: [your-email@example.com](mailto:openangeltt@gmail.com)
-- LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/Isaac-Browne)
-
+- Email: [openangeltt@gmail.com](mailto:openangeltt@gmail.com)
+<!--- LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/Isaac-Browne)
+--->
 ## ⚡ Fun fact: 
 - Apart from being a techie, I am a musician and play 6 instruments. 
 
